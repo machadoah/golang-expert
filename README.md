@@ -29,8 +29,8 @@ golang-expert
 | 🎬️   | Módulo                         | Realizado? |
 | --- | ------------------------------ | ---------- |
 | 01  | Introdução ao curso            | ✅          |
-| 02  | Configurando ambiente          | 🔄          |
-| 03  | Fundação                       | ❌          |
+| 02  | Configurando ambiente          | ✅          |
+| 03  | Fundação                       | 🔄          |
 | 04  | Pacotes importantes            | ❌          |
 | 05  | Context                        | ❌          |
 | 06  | Banco de dados                 | ❌          |
